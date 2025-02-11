@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rare Disease Prediction</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>Predict Rare Diseases</h1>
+        <form action="/predict" method="POST">
+            <label for="prevalence">Prevalence (per million):</label>
+            <input type="number" id="prevalence" name="prevalence" required>
+
+            <label for="genetic_marker">Genetic Marker:</label>
+            <input type="text" id="genetic_marker" name="genetic_marker" required>
+
+            <label for="symptoms">Symptoms:</label>
+            <input type="text" id="symptoms" name="symptoms" required>
+
+            <label for="age_of_onset">Age of Onset:</label>
+            <input type="text" id="age_of_onset" name="age_of_onset" required>
+
+            <label for="affected_system">Affected System:</label>
+            <input type="text" id="affected_system" name="affected_system" required>
+
+            <button type="submit" class="submit-btn">Predict Disease</button>
+        </form>
+    </div>
+</body>
+</html>
