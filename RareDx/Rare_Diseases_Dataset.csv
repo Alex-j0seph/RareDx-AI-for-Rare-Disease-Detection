@@ -1,0 +1,501 @@
+Disease Name,Prevalence (per million),Genetic Marker,Symptoms,Age of Onset,Affected System,Diagnostic Method,Treatment
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
+Cystic Fibrosis,70,CFTR gene,"Chronic cough, lung infections",Childhood,Respiratory,Genetic testing,"Enzyme therapy, physiotherapy"
+Huntington's Disease,10,HTT gene,"Movement disorders, cognitive decline",Adulthood,Nervous system,Genetic testing,Symptomatic management
+Gaucher's Disease,15,GBA gene,"Enlarged spleen, bone pain",Childhood,Metabolic system,Enzyme assay,Enzyme replacement therapy
+Marfan Syndrome,20,FBN1 gene,"Tall stature, heart abnormalities",Adolescence,Connective tissue,Clinical examination,"Monitoring, surgical interventions"
+Fabry Disease,5,GLA gene,"Pain, kidney dysfunction",Childhood,Metabolic system,"Enzyme assay, genetic testing",Enzyme replacement therapy
+Wilson's Disease,30,ATP7B gene,"Liver disease, neurological symptoms",Adolescence,"Liver, nervous system","Serum ceruloplasmin, genetic testing","Chelation therapy, zinc"
+Phenylketonuria (PKU),50,PAH gene,Intellectual disability if untreated,Newborn,Metabolic system,Newborn screening,Dietary management
+Tay-Sachs Disease,1,HEXA gene,"Muscle weakness, developmental delay",Infancy,Nervous system,"Enzyme assay, genetic testing",Supportive care
+Alport Syndrome,17,COL4A5 gene,"Kidney disease, hearing loss",Childhood,"Renal, auditory","Kidney biopsy, genetic testing",Kidney transplant
+Prader-Willi Syndrome,10,15q11-q13 deletion,"Hypotonia, obesity, intellectual disability",Infancy,"Endocrine, nervous system",Genetic testing,"Hormone therapy, dietary management"
