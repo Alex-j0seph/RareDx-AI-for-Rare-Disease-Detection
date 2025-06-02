@@ -1,4 +1,4 @@
-# RareDx: AI-Based Rare Disease Prediction System [cite: 1]
+# RareDx: AI-Based Rare Disease Prediction System 
 
 RareDx is an innovative AI-powered system designed to aid in the early detection of rare diseases[cite: 19]. It leverages advanced machine learning models to predict the likelihood of a rare disease based on user-provided symptoms[cite: 1]. The platform integrates AI to provide users with accurate predictions and medical insights[cite: 2], aiming to bridge the gap between medical expertise and accessibility through AI-driven technology[cite: 20].
 
